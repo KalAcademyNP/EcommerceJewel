@@ -1,0 +1,1 @@
+G:\OneDrive - Kal Academy\Documents\Materials\Mobile Development\Materials\EcommerceJewel\EcommerceJewel\EcommerceJewel.Windows\EcommerceJewel.Windows.csproj;neutral
